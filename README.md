@@ -1,7 +1,7 @@
 # Tasks CRUD API — Node.js Fundamentals
 
 A REST API for managing tasks, built with **pure Node.js** (no frameworks) as the solution to the
-[Rocketseat Ignite Node.js — Module 01](https://app.rocketseat.com.br/projects/ignite-node-js-2023-modulo-01) challenge.
+[Rocketseat Ignite Node.js — Module 01](https://app.rocketseat.com.br/projects/ignite-node-js-2023-modulo-01?module_slug=desafio-pratico-crud-tarefas&origin=%2Fjornada%2Fnode-js-2023%2Fconteudos) challenge.
 
 It shows the basics of Node.js that frameworks usually hide:
 
