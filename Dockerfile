@@ -6,6 +6,7 @@ COPY package*.json ./
 RUN npm ci --omit=dev
 
 COPY src ./src
+COPY assets ./assets
 RUN mkdir -p data && chown node:node data
 
 ENV PORT=3333
