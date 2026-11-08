@@ -1,0 +1,9 @@
+node_modules/
+npm-debug.log*
+
+# Local JSON database (generated at runtime)
+data/*
+!data/.gitkeep
+
+.env
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "name": "rocketseat-diego-01-node",
+  "version": "1.0.0",
+  "description": "Tasks CRUD REST API built with pure Node.js (Ignite Node.js - Module 01 challenge)",
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js"
+  },
+  "license": "MIT"
+}
