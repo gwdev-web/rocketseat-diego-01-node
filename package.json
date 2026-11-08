@@ -9,7 +9,11 @@
   },
   "scripts": {
     "dev": "node --watch src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "import:csv": "node src/scripts/import-csv.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^7.0.3"
+  }
 }
